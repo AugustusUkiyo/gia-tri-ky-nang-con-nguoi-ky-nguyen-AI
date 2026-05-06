@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+._*
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Backup files
+*.bak
+*.bak-*
+
+# Internal directories (not for public)
+test-artifacts/
+archived/
+plan/
